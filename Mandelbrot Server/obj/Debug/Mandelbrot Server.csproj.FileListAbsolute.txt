@@ -1,0 +1,8 @@
+c:\users\bbw-benutzer\documents\visual studio 2015\Projects\Mandelbrot Server\Mandelbrot Server\bin\Debug\Mandelbrot Server.exe.config
+c:\users\bbw-benutzer\documents\visual studio 2015\Projects\Mandelbrot Server\Mandelbrot Server\bin\Debug\Mandelbrot Server.exe
+c:\users\bbw-benutzer\documents\visual studio 2015\Projects\Mandelbrot Server\Mandelbrot Server\bin\Debug\Mandelbrot Server.pdb
+c:\users\bbw-benutzer\documents\visual studio 2015\Projects\Mandelbrot Server\Mandelbrot Server\bin\Debug\Newtonsoft.Json.dll
+c:\users\bbw-benutzer\documents\visual studio 2015\Projects\Mandelbrot Server\Mandelbrot Server\bin\Debug\Newtonsoft.Json.xml
+c:\users\bbw-benutzer\documents\visual studio 2015\Projects\Mandelbrot Server\Mandelbrot Server\obj\Debug\Mandelbrot Server.csprojResolveAssemblyReference.cache
+c:\users\bbw-benutzer\documents\visual studio 2015\Projects\Mandelbrot Server\Mandelbrot Server\obj\Debug\Mandelbrot Server.exe
+c:\users\bbw-benutzer\documents\visual studio 2015\Projects\Mandelbrot Server\Mandelbrot Server\obj\Debug\Mandelbrot Server.pdb
