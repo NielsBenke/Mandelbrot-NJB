@@ -6,3 +6,16 @@ c:\users\bbw-benutzer\documents\visual studio 2015\Projects\Mandelbrot Server\Ma
 c:\users\bbw-benutzer\documents\visual studio 2015\Projects\Mandelbrot Server\Mandelbrot Server\obj\Debug\Mandelbrot Server.csprojResolveAssemblyReference.cache
 c:\users\bbw-benutzer\documents\visual studio 2015\Projects\Mandelbrot Server\Mandelbrot Server\obj\Debug\Mandelbrot Server.exe
 c:\users\bbw-benutzer\documents\visual studio 2015\Projects\Mandelbrot Server\Mandelbrot Server\obj\Debug\Mandelbrot Server.pdb
+C:\Users\l\Mandelbrot-NJB\Mandelbrot Server\bin\Debug\Mandelbrot Server.exe.config
+C:\Users\l\Mandelbrot-NJB\Mandelbrot Server\bin\Debug\Mandelbrot Server.exe
+C:\Users\l\Mandelbrot-NJB\Mandelbrot Server\bin\Debug\Mandelbrot Server.pdb
+C:\Users\l\Mandelbrot-NJB\Mandelbrot Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\l\Mandelbrot-NJB\Mandelbrot Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\l\Mandelbrot-NJB\Mandelbrot Server\obj\Debug\Mandelbrot Server.csprojAssemblyReference.cache
+C:\Users\l\Mandelbrot-NJB\Mandelbrot Server\obj\Debug\Mandelbrot Server.csproj.CoreCompileInputs.cache
+C:\Users\l\Mandelbrot-NJB\Mandelbrot Server\obj\Debug\Mandelbrot Server.csproj.CopyComplete
+C:\Users\l\Mandelbrot-NJB\Mandelbrot Server\obj\Debug\Mandelbrot Server.exe
+C:\Users\l\Mandelbrot-NJB\Mandelbrot Server\obj\Debug\Mandelbrot Server.pdb
+C:\Users\BBW-BENUTZER\Documents\Visual Studio 2015\Projects\Mandelbrot-NJB\Mandelbrot Server\bin\Debug\Mandelbrot Server.exe.config
+C:\Users\BBW-BENUTZER\Documents\Visual Studio 2015\Projects\Mandelbrot-NJB\Mandelbrot Server\obj\Debug\Mandelbrot Server.exe
+C:\Users\BBW-BENUTZER\Documents\Visual Studio 2015\Projects\Mandelbrot-NJB\Mandelbrot Server\obj\Debug\Mandelbrot Server.pdb
